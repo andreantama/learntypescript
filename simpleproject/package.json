@@ -1,0 +1,14 @@
+{
+  "name": "simpleprojectwithstypescript",
+  "version": "1.0.0",
+  "description": "Create simple project with typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Andrean Yogatama",
+  "license": "ISC"
+}
